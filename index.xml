@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>💙📊📈Orsós Mihály</title>
+        <link>https://misrori.githubpage.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>ormraat.pte@gmail.com (Mihály Orsós )</managingEditor>
+            <webMaster>ormraat.pte@gmail.com (Mihály Orsós )</webMaster>
+            <atom:link href="https://misrori.githubpage.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
