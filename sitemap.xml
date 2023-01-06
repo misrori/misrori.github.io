@@ -2,6 +2,11 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://misrori.githubpage.io/about/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://misrori.githubpage.io/projects/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://misrori.githubpage.io/skills/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://misrori.githubpage.io/teaching/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://misrori.githubpage.io/work/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://misrori.githubpage.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://misrori.githubpage.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://misrori.githubpage.io/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
